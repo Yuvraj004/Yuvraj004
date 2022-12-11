@@ -26,7 +26,6 @@
 - :hourglass_flowing_sand:  Exploring Rasberry PI & IOT
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Currently a web developer at Software Development Cell of College(USICT,GGSIPU)
-- :dart: Coding, creating ,Sleeping and Travelling<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
