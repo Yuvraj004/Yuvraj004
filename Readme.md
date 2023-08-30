@@ -21,8 +21,6 @@
     </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuvraj004)](https://github.com/anuraghazra/github-readme-stats)
-
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand:  Exploring Rasberry PI & IOT
 - :rocket: Always ready to collaborate for Dev Experiments
