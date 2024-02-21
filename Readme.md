@@ -24,7 +24,7 @@
  - :computer: I'm currently working on MERN Stack
  - :hourglass_flowing_sand:  Exploring Rasberry PI & IOT
  - :rocket: Always ready to collaborate for Dev Experiments
- - :man_technologist: Currently a web developer at Software Development Cell of College(USICT,GGSIPU)
+ - :man_technologist: Was a web developer at Software Development Cell of College(USICT,GGSIPU) for 1.5 years
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
