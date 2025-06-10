@@ -21,10 +21,10 @@
     </p>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
- - :computer: I'm currently working on MERN Stack
- - :hourglass_flowing_sand:  Exploring Rasberry PI & IOT
- - :rocket: Always ready to collaborate for Dev Experiments
- - :man_technologist: Was a web developer at Software Development Cell of College(USICT,GGSIPU) for 1.5 years
+ - :computer: I'm currently working on Backend Developement
+ - :hourglass_flowing_sand:  Exploring Machine Learning and Deep Learning
+ - :rocket: Always ready to collaborate for Dev Experiments and ML models
+ - :man_technologist: SDE-1 at LazyBites.in 
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
